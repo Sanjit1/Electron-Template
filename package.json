@@ -1,0 +1,23 @@
+{
+  "name": "electron-template",
+  "version": "1.0.0",
+  "description": "My Electron Template for making electron apps",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sanjit1/Electron-Template.git"
+  },
+  "keywords": [
+    "template",
+    "electron"
+  ],
+  "author": "Sanjit1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sanjit1/Electron-Template/issues"
+  },
+  "homepage": "https://github.com/Sanjit1/Electron-Template#readme"
+}
